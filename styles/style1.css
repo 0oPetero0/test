@@ -1,0 +1,30 @@
+html{
+	font-size: 45px;
+	line-height: 1.5;
+	letter-spacing: 3px;
+	font-family: 'Tangerine', serif;
+	text-shadow: 4px 4px 4px #aaa;
+	background-color: #00539F;
+	color: blue;
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding: 0 0 0 20px;
+  background-color: white;
+  border: 5px solid black;
+}
+h1 {
+	font-size: 60px;  
+	text-align: center;
+	color: #00539F;	
+}
+p,li {
+	
+       
+
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
